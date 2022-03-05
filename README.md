@@ -66,4 +66,4 @@ Cifra da Nlogônia
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/edulucca/criptografia-nlogonia/blob/add-license-1/LICENSE) page for details.
