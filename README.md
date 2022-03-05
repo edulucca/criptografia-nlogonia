@@ -53,7 +53,7 @@ Cifra da Nlogônia
 <hr/>
 
 <div>
-  <h3>Execução</h3>
+  <h3>Execução 🏁</h3>
   <img src="https://s7.gifyu.com/images/eclipse-workspace---PoliciaFederal_src_cifraNlogonia_Criptografia.java---Eclipse-IDE-2022-03-05-12-53-38_Trim.gif" alt="programa em execução" border="0" height="325"/>
 </div>
 
