@@ -50,6 +50,7 @@ Cifra da Nlogônia
                         <li> As vogais não são modificadas.
                         </li>
                     </ul>
+                    <p> <a href="https://olimpiada.ic.unicamp.br/pratique/p2/2021/f1/cifra/">Acesse aqui</a> a explicação completa. </p>
 <hr/>
 
 <div>
