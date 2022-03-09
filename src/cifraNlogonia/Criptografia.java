@@ -20,7 +20,7 @@ public class Criptografia {
 		textoCifrado = criptografarTexto(textoOriginal);
 		
 		//Saída de dados
-		System.out.println(textoCifrado);
+		System.out.println("Texto Cifrado: " + textoCifrado);
 	}
 
 	private static String lerTexto() {
