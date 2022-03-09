@@ -22,7 +22,8 @@ public class Criptografia {
 		//Saída de dados
 		System.out.println("Texto Cifrado: " + textoCifrado);
 	}
-
+	
+	//Método que lê o texto do teclado
 	private static String lerTexto() {
 		//Declaração de variaveis
 		BufferedReader leitor = new BufferedReader(new InputStreamReader(System.in));
@@ -41,6 +42,7 @@ public class Criptografia {
 		return retorno;
 	}
 	
+	//Método que criptografa o texto inserido
 	private static String criptografarTexto(String textoOriginal) {
 		//Declaração de variáveis
 		String textoCifrado = "";
@@ -61,7 +63,8 @@ public class Criptografia {
 		// -> Retorna o texto cifrado
 		return textoCifrado;
 	}
-
+	
+	//Método que monta a sequência de consoantes em ordem alfabética
 	private static char[] montarConsoantes() {
 		// -> Declara um array com o tamanho do espaço amostral para receber as consoantes
 		char[] retorno = new char[ESPACO_AMOSTRAL];
@@ -90,7 +93,8 @@ public class Criptografia {
 		// -> Retorna o array de consoantes
 		return retorno;
 	}
-
+	
+	//Método que faz a substituição letra original por letra cifrada
 	private static String substituirLetra(char letraOriginal, char[] consoantes) {
 		//Declaração de variáveis
 		// -> Variável de retorno
